@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am working as a Consultant Engineer at [ALTEN Belgium](https://www.alten.be/) under projects in the automotive, aeronautical and energy sectors.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I hold a Double MSc in Industrial Engineering, with a major in mechanics from the [UPV/EHU](https://www.ehu.eus/es/), in Spain, and in aeronautics from the [ENSAM](https://artsetmetiers.fr/fr), in France. During my training, I have acquired experience in material design and characterisation of metallic alloys for the LPBF additive manufacturing technique at [Constellium](https://www.constellium.com/), and also in the synthesis and characterisation of additively manufactured bio-composites, working under the supervision of the [MSMP Laboratory](https://www.msmp.eu/) and the [ZIBIO Group](https://www.ehu.eus/es/web/enpresa/-/science-and-engineering-of-polymeric-biomaterials-zibio-), throughout different internships.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
