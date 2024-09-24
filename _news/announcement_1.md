@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on the determination of shear strength of additively manufactured poly lactic acid/flax fibre bio-composite via the Iosipescu test is out in [Composites Communications](https://www.sciencedirect.com/science/article/pii/S2452213924000494)
+Our paper on the determination of shear strength of additively manufactured poly lactic acid/flax fibre bio-composite via the Iosipescu test is out in [Composites Communications](https://www.sciencedirect.com/science/article/pii/S2452213924000494) :newspaper:
