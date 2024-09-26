@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mikel Xabier Muñoz Basagoiti",
+    "label": "Industrial Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mikel.xabier.munozbasagoiti@gmail.com",
+    "phone": "(+34) 654 553 620",
+    "url": "https://mikelxabier-munozbasagoiti.github.io/",
+    "summary": "Double MSc Industrial Engineer, specialized in mechanics and aeronautics, currently working as a Consultant Engineer at ALTEN Belgium. Open-minded, agile, and motivated, I bring a dynamic approach to learning and problem-solving. Committed to technical excellence and innovation, I seek opportunities to contribute to the advancement of industry",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,25 +24,60 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "ALTEN Belgium, Brussels, Belgium",
+      "position": "Consultant Engineer",
+      "url": "https://www.alten.be/",
+      "startDate": "2024-09-09",
+      "endDate": "Present",
+      "summary": "Working as a Consultant Engineer at under projects in the automotive, aeronautical and energy sectors",
+      "highlights": [""]
     }
   ],
+  "work": [
+    {
+      "name": "Constellium, Voreppe, France",
+      "position": "R&D Engineer Intern",
+      "url": "https://www.constellium.com/",
+      "startDate": "2024-02-05",
+      "endDate": "2024-07-31",
+      "summary": "Development of new aluminium alloys by laser powder bed fusion (LPBF) additive manufacturing technology. Mechanical characterisation and metallurgical analysis by different techniques of innovative and efficient systems for high added value applications in the aerospace and automotive sector",
+      "highlights": ["Additive Manufacturing", "LPBF","Metallic alloy"]
+    }
+  ],
+  "work": [
+    {
+      "name": "MSMP Laboratory, Aix-en-Provence, France",
+      "position": "Research Intern",
+      "url": "https://www.msmp.eu/",
+      "startDate": "2022-10-20",
+      "endDate": "2024-02-20",
+      "summary": "Determination of shear strength of additively manufactured poly lactic acid/flax fibre bio-composite via the iosipescu test",
+      "highlights": ["3D printing","Biocomposite"]
+    }
+  ],
+  "work": [
+    {
+      "name": "ZIBIO Group, Bilbao, Spain",
+      "position": "Research Intern",
+      "url": "https://www.ehu.eus/es/web/enpresa/-/science-and-engineering-of-polymeric-biomaterials-zibio-",
+      "startDate": "2020-03-01",
+      "endDate": "2021-07-21",
+      "summary": "Impact of the addition of radiopaque loads on the hydrolytic degradation of biodegradable polymers, establishing degradation curves corresponding to different properties for a convenient discussion over the achievement of a highly tenacious and with controlled reabsorption radiopaque implant for biomedical applications",
+      "highlights": ["Biocomposite"]
+    }
+  ],
+  
+  
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Dog houses for stray dogs",
+      "location": "Kavala, Greece",
+      "position": "PYTHIA KOINSEP",
+      "url": "https://youth.europa.eu/volunteering/organisation/60625_en",
+      "startDate": "2021-08-01",
+      "endDate": "2021-09-01",
+      "summary": "Intercultural participation in the construction of dog houses for stray dogs, dissemination activities and promotion in the local society (Kavala, Greece)",
+      "highlights": [""]
     }
   ],
   "education": [
