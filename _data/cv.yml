@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mikel Xabier Muñoz Basagoiti
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th August 1999
     - name: Languages
-      value: English, German
+      value: English, French, Spanish, Basque, German, Hungarian
 
 - title: Education
   type: time_table
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Consultant Engineer
+      institution: ALTEN Belgium, Brussels
+      year: 2024 - Present
       description:
         - Description 1.
         - Description 2.
