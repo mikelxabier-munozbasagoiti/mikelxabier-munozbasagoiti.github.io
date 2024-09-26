@@ -29,8 +29,7 @@
       "url": "https://www.alten.be/",
       "startDate": "2024-09-09",
       "endDate": "Present",
-      "summary": "Working as a Consultant Engineer at under projects in the automotive, aeronautical and energy sectors",
-      "highlights": [""]
+      "summary": "Working as a Consultant Engineer at under projects in the automotive, aeronautical and energy sectors"
     },
     {
       "name": "Constellium, Voreppe, France",
@@ -70,21 +69,19 @@
       "url": "https://youth.europa.eu/volunteering/organisation/60625_en",
       "startDate": "2021-08-01",
       "endDate": "2021-09-01",
-      "summary": "Intercultural participation in the construction of dog houses for stray dogs, dissemination activities and promotion in the local society (Kavala, Greece)",
-      "highlights": [""]
+      "summary": "Intercultural participation in the construction of dog houses for stray dogs, dissemination activities and promotion in the local society (Kavala, Greece)"
     }
   ],
   "education": [
     {
       "institution": "ENSAM, Grande École, France",
-      "location": "Aix-en-Provence & Bordeaux",
+      "location": "France",
       "url": "https://artsetmetiers.fr/fr",
       "area": "Aeronautics and Space",
       "studyType": "Programme Grande École (MSc)",
       "startDate": "2022-09-01",
       "endDate": "2024-09-04",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "School of Engineering of Bilbao, UPV/EHU, Spain",
@@ -94,8 +91,8 @@
       "studyType": "MSc in Industrial Engineering",
       "startDate": "2021-09-01",
       "endDate": "2024-09-04",
-      "score": "",
-      "courses": [""]
+      "score": ""
+      
     },
     {
       "institution": "School of Engineering of Bilbao, UPV/EHU, Spain",
@@ -105,17 +102,39 @@
       "studyType": "BSc in Industrial Engineering",
       "startDate": "2017-09-01",
       "endDate": "2021-07-21",
-      "score": "",
-      "courses": [""]
+      "score": ""
+      
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IKASIKER Collaboration Scholarship",
+      "date": "2020",
+      "awarder": "Basque Government",
+      "url": "https://www.euskadi.eus/alumnado-universitario-becas-ikasiker-de-colaboracion/web01-a3lagun/es/",
+      "summary": "Scholarship to work in the Polymer Biomaterials Science and Engineering Group (ZIBIO) in collaboration with the Material Science Department of the Faculty of Engineering in Bilbao"
+    }
+    {
+      "title": "Baccalaureate with Honors",
+      "date": "2017",
+      "awarder": "CPEIPS El Salvador Maristas Bilbao",
+      }
+    {
+      "title": "1st prize at the Student Science Fair",
+      "date": "2016",
+      "awarder": "CPEIPS El Salvador Maristas Bilbao",
+      "summary": "For a project exhibition on Refraction: History, fun experiments and applications"
+    }
+    {
+      "title": "European Youth Parliament (EYP) Representative",
+      "date": "2016",
+      "summary": "A platform where innovative ideas for the everyday problems of our network were defended in front of a court"
+    }
+    {
+      "title": "2nd prize at the Student Science Fair",
+      "date": "2015",
+      "awarder": "CPEIPS El Salvador Maristas Bilbao",
+      "summary": "For a project exhibition on Propulsion: basic concepts and home-made rockets"
     }
   ],
   "certificates": [
