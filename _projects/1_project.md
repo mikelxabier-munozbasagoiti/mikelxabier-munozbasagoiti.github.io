@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Determination of shear strength of additively manufactured poly lactic acid/flax fibre bio-composite via the iosipescu test
+description:
+img: assets/img/3d.jpg
 importance: 1
-category: work
+category: University
 related_publications: true
 ---
 
