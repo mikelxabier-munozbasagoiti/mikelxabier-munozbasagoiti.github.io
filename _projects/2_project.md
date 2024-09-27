@@ -2,7 +2,7 @@
 layout: page
 title: Spatial-Temporal Microstucture Analysis of WAAM (Wire Arc Additive Manufacturing) components (316L Steel)
 description: 
-img: assets/img/3d2.jpg
+img: assets/img/waam.jpg
 importance: 2
 category: University
 giscus_comments: true
