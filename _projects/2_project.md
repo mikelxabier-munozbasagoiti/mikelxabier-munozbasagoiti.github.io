@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Spatial-Temporal Microstucture Analysis of WAAM (Wire Arc Additive Manufacturing) components (316L Steel)
+description: 
+img: assets/img/3d2.jpg
 importance: 2
-category: work
+category: University
 giscus_comments: true
 ---
 
