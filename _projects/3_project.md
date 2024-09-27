@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Impact of the addition of radiopaque loads on the hydrolytic degradation of biodegradable polymers
+description:
+img: assets/img/plla.jpg
 importance: 3
-category: work
+category: University
 ---
 
 Every project has a beautiful feature showcase page.
